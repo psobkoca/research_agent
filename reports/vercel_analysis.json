@@ -1,0 +1,86 @@
+{
+  "company_name": "Vercel",
+  "summary": "Vercel is a company that focuses on creating and maintaining various open-source projects related to web development, including Next.js, Turborepo, v0, and the Vercel AI SDK. They also offer Serverless Functions and Edge Functions for running code without managing infrastructure.",
+  "projects": [
+    {
+      "name": "Next.js",
+      "description": "A popular React framework for building fast web applications.",
+      "citations": [
+        "https://vercel.com/docs/frameworks"
+      ]
+    },
+    {
+      "name": "Turborepo",
+      "description": "A high-performance build system for JavaScript and TypeScript monorepos.",
+      "citations": [
+        "https://vercel.com/docs/frameworks"
+      ]
+    },
+    {
+      "name": "v0",
+      "description": "A generative AI UI creation tool that outputs React code.",
+      "citations": [
+        "https://vercel.com/docs/frameworks"
+      ]
+    },
+    {
+      "name": "Vercel AI SDK",
+      "description": "An open-source library designed to help developers build conversational, streaming, and rich chat user interfaces using React, Svelte, Vue, and SolidJS.",
+      "citations": [
+        "https://vercel.com/blog/introducing-vercel-ai-sdk"
+      ]
+    },
+    {
+      "name": "Vercel Serverless Functions",
+      "description": "Allows developers to run complex backend logic without managing infrastructure.",
+      "citations": [
+        "https://vercel.com/docs/functions"
+      ]
+    },
+    {
+      "name": "Vercel Edge Functions",
+      "description": "Enables low-latency, globally distributed computations.",
+      "citations": [
+        "https://vercel.com/docs/functions"
+      ]
+    }
+  ],
+  "recommended_services": [
+    {
+      "service_name": "AI Integration Services",
+      "rationale": "Based on the Vercel AI SDK, our company could offer services to help developers integrate AI models into their applications more efficiently.",
+      "target_projects": [
+        "Vercel AI SDK"
+      ]
+    },
+    {
+      "service_name": "Data Analytics Services",
+      "rationale": "To help Vercel gain insights from their projects' data and make informed decisions, our company could offer comprehensive data analytics services.",
+      "target_projects": [
+        "All Projects"
+      ]
+    },
+    {
+      "service_name": "Digital Engineering Services",
+      "rationale": "Our company could provide digital engineering services to help Vercel optimize their projects' performance, scalability, and security.",
+      "target_projects": [
+        "All Projects"
+      ]
+    },
+    {
+      "service_name": "Cloud Modernization Services",
+      "rationale": "To help Vercel transition their infrastructure to a more modern and efficient cloud solution, our company could offer cloud modernization services.",
+      "target_projects": [
+        "Vercel Serverless Functions",
+        "Vercel Edge Functions"
+      ]
+    },
+    {
+      "service_name": "Automation Services",
+      "rationale": "Our company could provide automation services to help Vercel streamline their development, testing, and deployment processes.",
+      "target_projects": [
+        "All Projects"
+      ]
+    }
+  ]
+}

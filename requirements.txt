@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+langchain-ollama
+tavily-python
+python-dotenv
+pydantic>=2.0
+rich
