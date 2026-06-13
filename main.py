@@ -39,7 +39,7 @@ def check_requirements() -> bool:
             "The [cyan]TAVILY_API_KEY[/cyan] is not set in your [bold].env[/bold] file.\n"
             "The analyzer will run in [bold green]Mock Sandbox Mode[/bold green], using local mock data "
             "and Ollama to emulate web search results.\n\n"
-            "To use live web data, please get a free key from [link=https://tavily.com]https://tavily.com[/link] "
+            "To use live web data, please get a free key from "
             "and add it to your [bold].env[/bold] file:\n"
             "TAVILY_API_KEY=your_tavily_api_key"
         )
